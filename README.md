@@ -1,4 +1,4 @@
 bootstrap-left-menu
 ===================
 
-<a class="jsbin-embed" href="http://jsbin.com/exudaj/89/embed?html,css,js,output">JS Bin</a><script src="http://static.jsbin.com/js/embed.js"></script>
+<a class="jsbin-embed" href="http://jsbin.com/exudaj/91/embed?html,css,js,output">JS Bin</a><script src="http://static.jsbin.com/js/embed.js"></script>
