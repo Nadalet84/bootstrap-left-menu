@@ -1,0 +1,27 @@
+@media (max-width: 770px){
+				.navbar-collapse-left {
+				  width: 200px;
+				  position: fixed;
+				  background-color: #f8f8f8;
+				  border-color: #e7e7e7;
+				  min-height: 100%!important;
+				  display: block;
+				  left: -300px;
+				  padding: 0;
+				}
+				.navbar-collapse-left .collapse {
+				  left: -1000px;
+				}
+				.navbar-collapse-left .in {
+				  left:100px;
+				}
+
+				.navbar-collapse-left .navbar-nav{
+				  margin: 0;
+				}
+
+				.navbar-toggle {
+				  float: left;
+				  margin-left: 15px;
+				}
+			}
